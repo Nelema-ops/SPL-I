@@ -1,0 +1,1 @@
+Just run  Connect4Game.java to play the game,THANK YOU.
